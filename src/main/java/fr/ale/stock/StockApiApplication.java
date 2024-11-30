@@ -1,13 +1,13 @@
-package fr.ale.stock_api;
+package fr.ale.stock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GestionDesStocksApplication {
+public class StockApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GestionDesStocksApplication.class, args);
+		SpringApplication.run(StockApiApplication.class, args);
 	}
 
 }

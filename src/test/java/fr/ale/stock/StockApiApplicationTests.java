@@ -1,10 +1,10 @@
-package fr.ale.stock_api;
+package fr.ale.stock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GestionDesStocksApplicationTests {
+class StockApiApplicationTests {
 
 	@Test
 	void contextLoads() {
