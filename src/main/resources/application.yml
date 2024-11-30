@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Gestion des stocks
+  datasource:
+    username: stock_8vvn_user
+    driver-class-name: org.postgresql.Driver
+    jpa:
+      database-platform: org.hibernate.dialect.PostgreSQLDialect
